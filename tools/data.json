@@ -2064,6 +2064,12 @@
        "Elastina 3%",
        "Ác hialurónico 0,5%",
        "Crema base beeler csp 50g"
+      ],
+      [
+       "RAPAMICINA TÓPICA",
+       "Rapamicina 0,001 %",
+       "Mejora estética y resistencia a traumatismos.",
+       "Ref.: Chung CL et al. Geroscience 2019;41:861-9."
       ]
      ]
     },
@@ -4282,12 +4288,6 @@
      "blocks": [
       [
        "30 g=30E"
-      ],
-      [
-       "RAPAMICINA TÓPICA (ENVEJECIMIENTO CUTÁNEO)",
-       "Rapamicina 0,001 %",
-       "Mejora estética y resistencia a traumatismos.",
-       "Ref.: Chung CL et al. Geroscience 2019;41:861-9."
       ]
      ]
     }
