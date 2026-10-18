@@ -1059,7 +1059,14 @@
    "items": [
     {
      "name": "BLEFARITIS ROSACEA",
-     "blocks": []
+     "blocks": [
+      [
+       "Ivermectina 1% pomada oftálmica"
+      ],
+      [
+       "Tacrólimus 0,03% pomada oftálmica"
+      ]
+     ]
     },
     {
      "name": "BLEOMICINA",
