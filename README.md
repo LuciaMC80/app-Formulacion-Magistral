@@ -1,6 +1,6 @@
 # Dietario de Formulación Magistral
 
-Fórmulas magistrales dermatológicas transcritas del cuaderno OneNote «FORMULACIÓN MAGISTRAL», ordenadas de la A a la Z por patología: 135 patologías y 747 fórmulas.
+Fórmulas magistrales dermatológicas transcritas del cuaderno OneNote «FORMULACIÓN MAGISTRAL», ordenadas de la A a la Z por patología: 135 patologías y 779 fórmulas.
 
 - Abecedario fijo para saltar a cualquier letra.
 - Índice de patologías con el número de fórmulas de cada una.

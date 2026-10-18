@@ -231,7 +231,7 @@
  },
  {
   "sec": "H",
-  "page": "HIPERPIGMENTACION PERIOCULAR",
+  "page": "HIPERPIGMENTACIÓN PERIOCULAR",
   "blocks": [
    [
     "NOCHE (2 NOCHES CON FÓRMULA; EL RESTO, RETINOL EN CONTORNO DE OJOS)",
@@ -262,7 +262,7 @@
  },
  {
   "sec": "I",
-  "page": "ISOTRETINOINA",
+  "page": "ISOTRETINOÍNA",
   "blocks": [
    [
     "ISOTRETINOÍNA ORAL: PROBLEMAS DE DEGLUCIÓN (FORMA LÍQUIDA)",
@@ -458,6 +458,320 @@
     "Protocolo: asepsia con clorhexidina, anestesia local con lidocaína o bupivacaína e infiltración subcutánea con aguja de 25 - 30 G y jeringa de 1 ml.",
     "Antioxidante y vasodilatador (alivio rápido del dolor) y quelante de las sales de calcio. Éxito publicado en extravasación de quimioterapia y calcinosis cutis.",
     "Fuente: Dra. Maribel Iglesias, H. U. Sagrat Cor. Refs.: Strazzula L et al. JAMA Dermatol 2013;149(8):946-9; López-Sundh AE et al. Clin Rheumatol 2020."
+   ]
+  ]
+ },
+ {
+  "sec": "Y",
+  "page": "YODURO POTÁSICO",
+  "blocks": [
+   [
+    "SOLUCIÓN SATURADA DE YODURO POTÁSICO (LUGOL)",
+    "Yoduro potásico 62,5 g",
+    "Agua destilada 100 cc"
+   ],
+   [
+    "Yoduro potásico cápsulas de 300 mg"
+   ],
+   [
+    "ERITEMA NODOSO",
+    "Yoduro potásico 66,6 %",
+    "Solución acuosa (formular con gotero)",
+    "Posología: 3 gotas cada 8 horas; si la tolerancia es buena, aumentar 1 gota al día hasta un máximo de 10 gotas cada 8 horas."
+   ]
+  ]
+ },
+ {
+  "sec": "A",
+  "page": "ANESTESIA TÓPICA",
+  "blocks": [
+   [
+    "Alcohol bencílico 6 %",
+    "Tetracaína HCl 6 %",
+    "Lidocaína base 7 %",
+    "Prilocaína base 7 %",
+    "Excipiente T. c.s.p. 50 g"
+   ]
+  ]
+ },
+ {
+  "sec": "A",
+  "page": "ALOPECIA FRONTAL FIBROSANTE",
+  "blocks": [
+   [
+    "TACROLIMUS EN ALOPECIA FRONTAL FIBROSANTE",
+    "Tacrolimus 0,1 - 0,3 %",
+    "Gel hidroalcohólico c.s.p. 60 g (gel semifluido)"
+   ],
+   [
+    "TACROLIMUS EN ALOPECIA FRONTAL FIBROSANTE",
+    "Tacrolimus 0,1 - 0,3 %",
+    "Solución hidroalcohólica c.s.p. 100 ml"
+   ],
+   [
+    "TACROLIMUS EN ALOPECIA FRONTAL FIBROSANTE",
+    "Tacrolimus 0,1 %",
+    "Finasterida 0,5 %",
+    "Minoxidil 5 %",
+    "Solución hidroalcohólica c.s.p. 100 ml"
+   ],
+   [
+    "CORTICOIDE TÓPICO (2 DÍAS POR SEMANA, COMBINADO CON TACROLIMUS)",
+    "Propionato de clobetasol 0,05 %",
+    "Minoxidil 5 %",
+    "Gel semifluido c.s.p. 60 g",
+    "Asociar tratamiento sistémico (principalmente dutasterida y minoxidil oral, isotretinoína…), con o sin infiltraciones de corticoides y PRP.",
+    "Ref.: Giorgio CM et al. Ital J Dermatol Venerol 2022;157(3):287-8."
+   ],
+   [
+    "TRATAMIENTO DE LA AFF 2025 (DR. DAVID SACEDA)",
+    "Leve o ausente: pimecrolimus / tacrolimus tópico 2 - 3 veces/semana.",
+    "Moderada: pimecrolimus / tacrolimus tópico 2 - 3 veces/semana + clobetasol tópico 2 veces/semana, o delgocitinib / ruxolitinib tópico; ± triamcinolona intralesional 4 mg/ml (+ PRP).",
+    "Grave: lo anterior (clobetasol 2 - 3 veces/semana) + triamcinolona intralesional 4 mg/ml (+ PRP) ± hidroxicloroquina oral 4,5 mg/kg/día.",
+    "Si prurito o tricodinia: naltrexona oral 3 mg/día, gabapentina oral 300 mg/8 h o toxina botulínica."
+   ]
+  ]
+ },
+ {
+  "sec": "B",
+  "page": "BLEFARITIS ROSÁCEA",
+  "blocks": [
+   [
+    "Ivermectina 1 %",
+    "Pomada oftálmica c.s.p. 10 g",
+    "Asociar limpieza con toallitas de árbol del té."
+   ],
+   [
+    "Tacrolimus 0,03 %",
+    "Pomada oftálmica c.s.p. 10 g",
+    "Asociar limpieza con toallitas de árbol del té."
+   ]
+  ]
+ },
+ {
+  "sec": "D",
+  "page": "DERMATITIS ATÓPICA",
+  "blocks": [
+   [
+    "FASE AGUDA",
+    "Corticoides nivel III: triamcinolona acetónido 0,1 %",
+    "Corticoides nivel II: desoximetasona 0,2 %",
+    "Otros: prednicarbato 0,25 %; hidrocortisona 1 - 2,5 %",
+    "Inhibidores de la calcineurina: tacrólimus 0,03 - 0,1 %",
+    "Antibióticos: gentamicina sulfato 0,05 - 0,1 %; fusidato sódico (ácido fusídico) 2 - 4 %",
+    "Antifúngicos: clotrimazol 1 %; ketoconazol 2 %",
+    "Ácidos grasos: aceite de borraja, onagra o rosa mosqueta 3 - 5 %"
+   ],
+   [
+    "FASE SUBAGUDA",
+    "Betametasona valerato 0,1 %",
+    "Tacrólimus 0,03 - 0,05 %"
+   ],
+   [
+    "FASE CRÓNICA",
+    "Clobetasol propionato 0,05 %",
+    "Tacrólimus 0,05 - 0,1 %",
+    "Antipruriginosos: doxepina tópica 5 %; polidocanol 15 %; coaltar saponinado 5 - 20 %; capsaicina 0,05 - 0,1 %; cromoglicato sódico 10 %"
+   ]
+  ]
+ },
+ {
+  "sec": "D",
+  "page": "DAPSONA TÓPICA",
+  "blocks": [
+   [
+    "INDICACIONES DE LA DAPSONA TÓPICA",
+    "Acné, rosácea, dermatosis pustulosa subcórnea, dermatosis pustulosa erosiva del cuero cabelludo, granuloma anular localizado, foliculitis decalvante, vasculitis leucocitoclástica, erupción papulopustulosa por cetuximab y dermatitis herpetiforme.",
+    "Refs.: Doolan BJ et al. J Dermatol 2019;46(11):e437-8; Broussard KC et al. J Am Acad Dermatol vol. 66, n.º 4."
+   ]
+  ]
+ },
+ {
+  "sec": "H",
+  "page": "HIALURONIDASA",
+  "blocks": [
+   [
+    "OCLUSIÓN VASCULAR POR RELLENO: HIALURONIDASA",
+    "Diluir 1500 U de hialuronidasa en 5 ml de suero salino fisiológico.",
+    "Inyectar 500 U subcutáneas por área ocluida (en la nariz, hasta 900 U).",
+    "Reevaluar y volver a inyectar cada hora hasta reperfundir. Confirmar con ecografía o pinprick test que el émbolo se ha disuelto.",
+    "Monitorizar al paciente 24 - 48 h; si no se ha resuelto, repetir (3 veces al día, 3 días).",
+    "Si oclusión aguda: parar la inyección ante dolor intenso o palidez en la zona. NO usar vasodilatadores."
+   ],
+   [
+    "EN LA CLÍNICA",
+    "AAS 300 mg",
+    "Dexametasona IM",
+    "Si oclusión tardía: una vez disuelto el émbolo, diltiazem 30 mg + pentoxifilina 400 mg; valorar cámara hiperbárica a 2 - 3 atm."
+   ],
+   [
+    "PARA CASA",
+    "AAS 100 mg al día",
+    "Ibuprofeno 600 mg cada 8 h",
+    "Si oclusión tardía: prednisolona 20 mg al día y amoxicilina-clavulánico 875/125 mg cada 8 h durante 7 días.",
+    "Ref.: Fakih-Gómez N et al. Aesthetic Plast Surg 2024;48(6):1174-80."
+   ]
+  ]
+ },
+ {
+  "sec": "P",
+  "page": "PSEUDOMONA UNGUEAL",
+  "blocks": [
+   [
+    "UÑA VERDE (INFECCIÓN POR PSEUDOMONAS AERUGINOSA)",
+    "Gentamicina 0,1 %",
+    "Crema base Lanette c.s.p. 50 g",
+    "Modo de aplicación: 2 veces al día durante 4 - 6 semanas."
+   ]
+  ]
+ },
+ {
+  "sec": "P",
+  "page": "PÚRPURA DE BATEMAN",
+  "blocks": [
+   [
+    "RAPAMICINA TÓPICA (ENVEJECIMIENTO CUTÁNEO)",
+    "Rapamicina 0,001 %",
+    "Mejora estética y resistencia a traumatismos.",
+    "Ref.: Chung CL et al. Geroscience 2019;41:861-9."
+   ]
+  ]
+ },
+ {
+  "sec": "P",
+  "page": "PEDICULOSIS",
+  "blocks": [
+   [
+    "IVERMECTINA",
+    "Champú de ivermectina 0,75 %",
+    "Alternativa: mezclar la crema comercial con acondicionador (aplicar unos minutos).",
+    "Oral: 200 microgramos/kg"
+   ],
+   [
+    "Permetrina 1 %",
+    "Ivermectina 0,7 %",
+    "Butóxido de piperonilo 2 %",
+    "Alcohol isopropílico 50 %",
+    "Alcohol 96º"
+   ],
+   [
+    "IVERMECTINA ORAL EN PROBLEMAS DE DEGLUCIÓN (NIÑOS, ANCIANOS)",
+    "Ivermectina 0,8 %",
+    "Solución acuosa c.s.p. 200 ml",
+    "1 gota = 400 mcg",
+    "Posología: 1 gota por kg de peso, en ayunas. Repetir a los 7 días."
+   ]
+  ]
+ },
+ {
+  "sec": "Q",
+  "page": "QUEILITIS ACTÍNICA",
+  "blocks": [
+   [
+    "5-Fluorouracilo 5 % solución",
+    "Modo de aplicación: 3 - 4 veces al día durante 12 días."
+   ],
+   [
+    "Diclofenaco 3 %",
+    "Ácido hialurónico 2,5 %",
+    "En gel",
+    "Modo de aplicación: 2 veces al día durante 20 - 30 días.",
+    "Propuesta: diclofenaco 3 % + ácido hialurónico 2,5 % en pomada labial.",
+    "Ref.: J Cosmet Dermatol 2022;21:473-81."
+   ]
+  ]
+ },
+ {
+  "sec": "Q",
+  "page": "QUERATOSIS ACTÍNICAS",
+  "blocks": [
+   [
+    "CALCIPOTRIOL TÓPICO EN QUERATOSIS ACTÍNICAS",
+    "5-Fluorouracilo 5 %",
+    "Calcipotriol 0,005 %",
+    "Emulsión W/O 40 g",
+    "Modo de aplicación: 2 veces al día durante 4 días.",
+    "Acción antitumoral vía linfocitos T; también aumenta la eficacia de la terapia fotodinámica. Asociado a 5-FU reduce el número de queratosis actínicas y el riesgo de carcinoma escamoso; más eficaz que 5-FU en monoterapia, aunque con más reacción local. La pauta corta mejora la adherencia.",
+    "Refs.: Azin M et al. JID Innov 2022;2(3):100104; Moore AY et al. J Am Acad Dermatol 2021;84(4):1148-50."
+   ]
+  ]
+ },
+ {
+  "sec": "R",
+  "page": "ROSÁCEA",
+  "blocks": [
+   [
+    "ROSÁCEA ERITEMATOSA (VENOTÓNICOS ± METRONIDAZOL TÓPICO)",
+    "Venotónicos: extractos glicólicos de ruscus, castaño de Indias, etc. 5 - 10 %",
+    "Tónico-calmantes: aguas aromáticas de rosas, hamamelis, azahar 10 %",
+    "Antiinflamatorios: enoxolona 0,5 - 1 %; alfa-bisabolol 0,5 %",
+    "Seborreica: metronidazol tópico 0,7 - 1 %; clotrimazol 1 %; hidrocortisona 0,5 - 1 %"
+   ],
+   [
+    "ROSÁCEA PAPULOPUSTULOSA (TRATAMIENTO TÓPICO + ORAL)",
+    "Metronidazol tópico 0,7 - 1 %",
+    "Enoxolona 0,5 - 1 %",
+    "Alfa-bisabolol 0,5 %",
+    "Clindamicina 1 - 2 %",
+    "Eritromicina 2 - 4 %",
+    "Tacrólimus 0,003 - 0,005 % (así figura en la tabla original)"
+   ],
+   [
+    "ROSÁCEA GRANULOMATOSA",
+    "Metronidazol tópico 0,7 - 1 %",
+    "Permetrina 5 %",
+    "Clindamicina 1 - 2 %"
+   ]
+  ]
+ },
+ {
+  "sec": "S",
+  "page": "SARNA RECALCITRANTE",
+  "blocks": [
+   [
+    "Benzoato de bencilo 25 % (adultos) / 10 % (niños)",
+    "Crema base Lanette c.s.p. 250 g",
+    "Modo de aplicación: aplicar 48 h y repetir los días 8 y 9."
+   ],
+   [
+    "Azufre precipitado 8 %",
+    "Pasta al agua c.s.p. 200 g (o aceite de almendras, o vaselina)",
+    "Modo de aplicación: aplicar 24 h, 3 días consecutivos.",
+    "De elección en menores de 2 años y embarazadas."
+   ],
+   [
+    "IVERMECTINA ORAL EN PROBLEMAS DE DEGLUCIÓN (NIÑOS, ANCIANOS)",
+    "Ivermectina 0,4 %",
+    "Solución acuosa c.s.p. 200 ml",
+    "1 gota = 200 mcg",
+    "Posología: 1 gota por kg de peso, en ayunas. Repetir a los 7 días."
+   ]
+  ]
+ },
+ {
+  "sec": "V",
+  "page": "VERRUGAS PLANAS RECALCITRANTES",
+  "blocks": [
+   [
+    "SOLUCIÓN SALINA HIPERTÓNICA",
+    "Pizca de sal en una gasa sumergida en agua tibia: aplicar 3 - 5 minutos.",
+    "Solución salina hipertónica saturada de sal de mesa: 40 - 50 g de sal en 100 ml de agua del grifo. Diario, 6 semanas.",
+    "± retinoide tópico.",
+    "Ref.: Mukhtar M. J Cutan Aesthet Surg 2024."
+   ]
+  ]
+ },
+ {
+  "sec": "T",
+  "page": "TIMOLOL",
+  "blocks": [
+   [
+    "OPCIÓN MÁS USADA (BASE ACUOSA O GELIFICADA)",
+    "Timolol maleato 0,5 % (equivale a 5 mg/ml)",
+    "Gel de carbómero c.s.p. 30 g",
+    "Vehículo: gel de carbómero o de metilcelulosa (hidrogel no graso, pH fisiológico).",
+    "Presentación: envase opaco con bomba dosificadora de 10 - 15 ml.",
+    "Conservante opcional: fenoxietanol 0,5 % o sorbato potásico 0,15 %."
    ]
   ]
  }
