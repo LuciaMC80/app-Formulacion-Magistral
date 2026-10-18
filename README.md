@@ -1,6 +1,6 @@
 # Dietario de Formulación Magistral
 
-Fórmulas magistrales dermatológicas transcritas del cuaderno OneNote «FORMULACIÓN MAGISTRAL», ordenadas de la A a la Z por patología: 135 patologías y 664 fórmulas.
+Fórmulas magistrales dermatológicas transcritas del cuaderno OneNote «FORMULACIÓN MAGISTRAL», ordenadas de la A a la Z por patología: 135 patologías y 747 fórmulas.
 
 - Abecedario fijo para saltar a cualquier letra.
 - Índice de patologías con el número de fórmulas de cada una.
@@ -31,6 +31,8 @@ y abra `http://localhost:8000`.
 ```bash
 python tools/build.py
 ```
+
+`tools/imagenes.json` contiene las fórmulas que en el cuaderno estaban como imagen (diapositivas, fotos de tablas), transcritas a mano; se añaden al final de su patología.
 
 Esto reescribe `index.html` y `tools/data.json` (los datos ya ordenados por letra y patología). `tools/template.html` contiene el diseño y el buscador.
 

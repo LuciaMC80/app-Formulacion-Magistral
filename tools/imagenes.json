@@ -1,0 +1,464 @@
+[
+ {
+  "sec": "A",
+  "page": "ANTIENVEJECIMIENTO",
+  "blocks": [
+   [
+    "FOTOENVEJECIMIENTO (NOCHE)",
+    "Ácido retinoico 0,02 - 0,05 %",
+    "Vitamina E 3 %",
+    "Vitamina C 2 %",
+    "Indometacina 3 %",
+    "Emulsión W/O, O/W, W/S",
+    "Fuente: GEDEFAF (Reunión GEDET)"
+   ],
+   [
+    "FOTOENVEJECIMIENTO (NOCHE)",
+    "Ácido retinoico 0,02 - 0,05 %",
+    "Vitamina E 3 %",
+    "Vitamina C 2 %",
+    "Extracto de Centella 10 %",
+    "Emulsión Versatile / Versatile rich",
+    "Fuente: Dra. Cristina Galván (Reunión GEDET)"
+   ],
+   [
+    "FOTOENVEJECIMIENTO (NOCHE)",
+    "Ácido retinoico 0,02 - 0,05 %",
+    "Indometacina 3 %",
+    "Antioxidante",
+    "Emulsión W/S"
+   ],
+   [
+    "FOTOENVEJECIMIENTO EN PIELES GRASAS (NOCHE)",
+    "Ácido retinoico 0,015 - 0,05 %",
+    "Vitamina E 3 %",
+    "Vitamina C 2 %",
+    "Indometacina 3 %",
+    "Ácido glicólico 10 %",
+    "Gel-crema o emulsión O/W"
+   ],
+   [
+    "FOTOENVEJECIMIENTO EN PIELES GRASAS (NOCHE)",
+    "Retinaldehído 0,1 %",
+    "Ácido glicólico 6 %",
+    "Emulsión W/S"
+   ],
+   [
+    "ENVEJECIMIENTO EN MENOPAUSIA (NOCHE, ALTERNANDO CON RETINOIDES)",
+    "Progesterona 2 %",
+    "Crema O/W",
+    "Mejora la firmeza y elasticidad, pero no la xerosis."
+   ],
+   [
+    "ENVEJECIMIENTO EN MENOPAUSIA (NOCHE, ALTERNANDO CON RETINOIDES)",
+    "DHEA-S 0,5 %",
+    "Ácido retinoico 0,015 %",
+    "Crema base nutritiva adaptada",
+    "Fuente: Cayetano Gutiérrez (Reunión GEDET)"
+   ],
+   [
+    "ANTI-AGING CON MELATONINA",
+    "Melatonina 2,5 %",
+    "Vitamina C 5 %",
+    "Vitamina E 2 %",
+    "En vehículo hidroalcohólico",
+    "Cremas formuladas con melatonina al 0,1 - 0,5 %. Fotosensible: añadir antioxidantes y envasar en frasco opaco. Mejor oral, o oral + tópica, que solo tópica."
+   ],
+   [
+    "PIELES CON TENDENCIA GRASA / ACNEICA (NOCHE)",
+    "Ácido retinoico 0,05 - 0,1 %",
+    "Indometacina 3 %",
+    "Emulsión W/S"
+   ],
+   [
+    "DERMATITIS SEBORREICA (NOCHE, ALTERNANDO CON UN RETINOIDE SUAVE)",
+    "Ciclopiroxolamina 1 %",
+    "Enoxolona 0,5 %",
+    "Ictiológicos 1 %",
+    "Crema base Beeler",
+    "Fuente: GEDEFAF (Reunión GEDET)"
+   ]
+  ]
+ },
+ {
+  "sec": "A",
+  "page": "ARRUGA PERIOCULAR",
+  "blocks": [
+   [
+    "NOCHE (3 NOCHES POR SEMANA, ALTERNANDO CON EMOLIENTES)",
+    "Ácido retinoico 0,02 %",
+    "Vitamina E 3 %",
+    "Ácido hialurónico 0,5 %",
+    "Nifedipino 0,5 %",
+    "Emulsión Versatile"
+   ],
+   [
+    "NOCHE (3 NOCHES POR SEMANA, ALTERNANDO CON EMOLIENTES)",
+    "Ácido retinoico 0,02 %",
+    "Vitamina E 3 %",
+    "Ácido hialurónico 0,5 %"
+   ]
+  ]
+ },
+ {
+  "sec": "D",
+  "page": "DERMATITIS PERIORAL",
+  "blocks": [
+   [
+    "Tacrolimus 0,03 - 0,1 %",
+    "Metronidazol 1 %",
+    "Crema glucídica c.s.p. 50 g"
+   ],
+   [
+    "Tacrolimus 0,03 - 0,1 %",
+    "Clindamicina 1 %",
+    "Crema glucídica c.s.p. 50 g"
+   ],
+   [
+    "MANEJO",
+    "Abandonar desencadenantes y eliminar cosméticos.",
+    "Tacrolimus tópico asociado a metronidazol o clindamicina en vehículo adecuado.",
+    "Moderada o grave: asociar doxiciclina; alternativa azitromicina o claritromicina.",
+    "Recurrente: isotretinoína oral a dosis bajas.",
+    "Alternativa: ivermectina oral (la tópica aumenta la irritación).",
+    "Dermatitis periorificial infantil: azitromicina suspensión 200 mg/5 ml, 3 + 3 días.",
+    "Ref.: Ollech A et al. J Am Acad Dermatol 2020;82(6):1409-14."
+   ]
+  ]
+ },
+ {
+  "sec": "E",
+  "page": "ERITEMA FACIAL",
+  "blocks": [
+   [
+    "RUBOR FACIAL",
+    "Oximetazolina 1 %",
+    "Gel acuoso c.s.p. 50 g",
+    "Modo de aplicación: cada mañana o «a demanda»."
+   ],
+   [
+    "RUBOR FACIAL",
+    "Timolol 0,5 - 1 %",
+    "Gel acuoso c.s.p. 50 g",
+    "Modo de aplicación: cada mañana o «a demanda»."
+   ]
+  ]
+ },
+ {
+  "sec": "H",
+  "page": "HIPERPIGMENTACIONES",
+  "blocks": [
+   [
+    "Hidroquinona 5 %",
+    "Ácido retinoico 0,1 %",
+    "Triamcinolona acetónido 0,1 %",
+    "Crema Lanette c.s.p. 30 g",
+    "Tipo Kligman"
+   ],
+   [
+    "Hidroquinona 3 %",
+    "Ácido kójico 2 - 4 %",
+    "Ácido láctico 5 %",
+    "Ácido cítrico 3 %",
+    "Base Beeler c.s.p. 30 g"
+   ],
+   [
+    "MAP 2 %",
+    "Vitamina E 2 %",
+    "Ácido azelaico 20 %",
+    "Ácido retinoico 0,02 %",
+    "Indometacina 3 %",
+    "Base Beeler c.s.p. 30 g"
+   ],
+   [
+    "Hidroquinona 2 % / Mequinol 2 %",
+    "Ácido retinoico 0,01 - 0,02 %",
+    "Indometacina 3 %",
+    "Base Beeler c.s.p. 30 g / Solución tópica c.s.p. 30 mL"
+   ],
+   [
+    "Ácido retinoico 0,01 %",
+    "Arbutina 4 %",
+    "Ácido kójico 3 %",
+    "Ácido ascórbico 3 %",
+    "Ácido 18-β-glicirretínico 2 %",
+    "Cremigel c.s.p. 30 g / crema W/O c.s.p. 30 g"
+   ],
+   [
+    "Ácido kójico 2 - 4 %",
+    "Ácido fítico 2 - 4 %",
+    "Arbutina 2 - 4 %",
+    "Extracto de Morus alba 3 %",
+    "Cremigel c.s.p. 30 g"
+   ],
+   [
+    "Hidroquinona 2 - 4 %",
+    "Ácido kójico 4 %",
+    "Ácido retinoico 0,025 %",
+    "Indometacina 3 %",
+    "Crema Lanette c.s.p. 30 g"
+   ],
+   [
+    "Hidroquinona 2 - 4 %",
+    "Ácido kójico 2 - 4 %",
+    "Ácido láctico 5 - 10 %",
+    "Ácido cítrico 2 - 5 %",
+    "Ácido salicílico 2 - 5 %",
+    "Solución alcohólica c.s.p. 30 mL"
+   ],
+   [
+    "Ácido glicólico 5 - 10 % / Ácido salicílico 2 %",
+    "Azeloglicina 10 %",
+    "Ácido kójico 2 - 4 %",
+    "Extracto de regaliz 2 %",
+    "Cremigel c.s.p. 30 g"
+   ],
+   [
+    "Hidroquinona 2 %",
+    "Ácido azelaico 20 %",
+    "Ácido glicólico 8 %",
+    "Indometacina 3 %",
+    "Crema Lanette c.s.p. 30 g"
+   ],
+   [
+    "Ácido kójico 2 %",
+    "Retinol 0,15 %",
+    "Aloe vera 10 %",
+    "Ácido lipoico 3 %",
+    "Cremigel c.s.p. 30 g"
+   ]
+  ]
+ },
+ {
+  "sec": "H",
+  "page": "HIPERPIGMENTACION PERIOCULAR",
+  "blocks": [
+   [
+    "NOCHE (2 NOCHES CON FÓRMULA; EL RESTO, RETINOL EN CONTORNO DE OJOS)",
+    "Ácido kójico 1 %",
+    "Ácido tranexámico 3 %",
+    "Crema base Beeler"
+   ],
+   [
+    "NOCHE (2 NOCHES CON FÓRMULA; EL RESTO, RETINOL EN CONTORNO DE OJOS)",
+    "Ácido kójico 1 %",
+    "Hidroquinona 2 %",
+    "Crema base Beeler"
+   ]
+  ]
+ },
+ {
+  "sec": "H",
+  "page": "HIPERQUERATOSIS PALMO PLANTAR",
+  "blocks": [
+   [
+    "Propilenglicol 60 %",
+    "Ácido salicílico 6 %",
+    "(Clobetasol dipropionato 0,05 %)",
+    "Gel celulósico hidroalcohólico c.s.p. 80 g",
+    "Modo de aplicación: por la noche durante 1 mes."
+   ]
+  ]
+ },
+ {
+  "sec": "I",
+  "page": "ISOTRETINOINA",
+  "blocks": [
+   [
+    "ISOTRETINOÍNA ORAL: PROBLEMAS DE DEGLUCIÓN (FORMA LÍQUIDA)",
+    "Isotretinoína X mg",
+    "Aceite de soja c.s.p. 90 ml",
+    "3 ml = 1 dosis diaria",
+    "Posología: 3 ml al día después de comer."
+   ],
+   [
+    "ISOTRETINOÍNA ORAL: ALERGIA A LA SOJA O AL MAÍZ",
+    "Isotretinoína X mg",
+    "Aceite de oliva",
+    "Excipiente c.s.p. 1 cápsula",
+    "n = 90 cápsulas",
+    "Posología: 1 cápsula al día después de comer."
+   ]
+  ]
+ },
+ {
+  "sec": "M",
+  "page": "METFORMINA TÓPICA",
+  "blocks": [
+   [
+    "MELASMA",
+    "Metformina 30 %",
+    "Crema base Beeler c.s.p. 30 g (crema acuosa)",
+    "Ref.: AboAlsoud ES et al. J Cosmet Dermatol 2022;21(6):2508-15."
+   ],
+   [
+    "MELASMA",
+    "Metformina 30 %",
+    "Ácido tranexámico 5 %",
+    "Crema base Beeler c.s.p. 30 g"
+   ],
+   [
+    "MELASMA",
+    "Metformina 30 %",
+    "Ácido tranexámico 5 %",
+    "Ácido azelaico 15 %",
+    "Crema base Beeler c.s.p. 30 g",
+    "Recomendación: como terapia secuencial tras la tríada de Kligman."
+   ],
+   [
+    "ALOPECIA CICATRICIAL CENTRAL CENTRÍFUGA",
+    "Metformina 10 %",
+    "Loción O/W c.s.p. 60 g",
+    "Combinar siempre con tratamiento antiinflamatorio."
+   ],
+   [
+    "ALOPECIA CICATRICIAL CENTRAL CENTRÍFUGA",
+    "Metformina 10 %",
+    "Minoxidil 5 %",
+    "Solución acuosa capilar c.s.p. 100 ml",
+    "Combinar siempre con tratamiento antiinflamatorio.",
+    "Ref.: Aboluwarin O. Clin Exp Dermatol 2025; doi:10.1093/ced/llaf400."
+   ],
+   [
+    "PERIODONTITIS",
+    "Metformina 1 %",
+    "Excipiente adhesivo oral c.s.p. 30 g",
+    "Ref.: Pradeep AR et al. J Periodontol 2017;88(10):1023-9."
+   ],
+   [
+    "USOS",
+    "Derivado de la biguanida. En dermatología, resultados inconsistentes pero prometedores en melasma, alopecia central centrífuga cicatricial, cicatrización de heridas y acné vulgar (metformina gel 30 %; El-Komy MHM et al. Exp Dermatol 2023;32(10):1663-73)."
+   ]
+  ]
+ },
+ {
+  "sec": "N",
+  "page": "NEVIL",
+  "blocks": [
+   [
+    "CALCIPOTRIOL EN NEVIL",
+    "Calcipotriol 0,005 %",
+    "Urea 20 %",
+    "Triamcinolona acetónido 0,1 %",
+    "Emulsión O/W",
+    "El calcipotriol se ha usado en monoterapia; la asociación con corticoide y urea aumenta la eficacia.",
+    "Ref.: Hong JK et al. Clin Exp Dermatol 2021;46(5):940-2."
+   ]
+  ]
+ },
+ {
+  "sec": "N",
+  "page": "NALTREXONA",
+  "blocks": [
+   [
+    "NALTREXONA A DOSIS BAJAS",
+    "Naltrexona 2,5 - 5 mg",
+    "Excipiente c.s.p. 1 comprimido",
+    "N.º de comprimidos: 60 o 90",
+    "Antes de empezar, descartar uso reciente de opioides (puede desencadenar síndrome de abstinencia)."
+   ],
+   [
+    "LIQUEN PLANO UNGUEAL",
+    "Naltrexona 3 mg/día",
+    "Ref.: Bray ER, Morrison BW. JAMA Dermatol 2024;160(12):1334-7."
+   ],
+   [
+    "INDICACIONES Y SEGURIDAD",
+    "Antagonista de los receptores opioides. A dosis bajas (1 - 5 mg) se une solo 4 - 6 h y provoca un aumento compensatorio de opioides endógenos: efecto antiinflamatorio y menor adhesión y proliferación de queratinocitos. A dosis estándar (>50 mg): dependencia de alcohol y opioides.",
+    "Uso descrito en: enfermedad de Hailey-Hailey (la más publicada), Darier, Grover, liquen plano pilar, liquen plano ungueal, esclerodermia, dermatomiositis, psoriasis, epidermólisis ampollosa pruriginosa y alopecia frontal fibrosante.",
+    "Para otros pruritos (atopia, colestásico, urémico) se usa la dosis estándar de 50 mg.",
+    "Dosis estándar: intolerancia digestiva, artralgias, mialgias, alteraciones del sueño, cefalea, astenia, ansiedad. Controlar la función hepática antes de empezar y cada 3 meses.",
+    "Dosis baja: bien tolerada, sobre todo pesadillas y cefalea. Sin signos ni síntomas no precisa control analítico.",
+    "Solo se comercializa a dosis altas o combinada con otros fármacos, por lo que hay que recurrir a la fórmula magistral."
+   ]
+  ]
+ },
+ {
+  "sec": "O",
+  "page": "OJERA",
+  "blocks": [
+   [
+    "HIPERPIGMENTACIÓN PERIORBITARIA",
+    "Hidroquinona 2 %",
+    "Ácido kójico 1 %",
+    "Ácido retinoico 0,025 %",
+    "Hidrocortisona base 1 %",
+    "Vitamina E c.s. (antioxidante)",
+    "Vitamina C c.s. (antioxidante)",
+    "BHT c.s. (antioxidante)",
+    "Ácido tranexámico 5 %",
+    "Emulsión O/W c.s.p. 30 g",
+    "Ref.: Sarkar R et al. J Clin Aesthet Dermatol 2016;9(1):49-55."
+   ]
+  ]
+ },
+ {
+  "sec": "P",
+  "page": "PITIRIASIS ALBA",
+  "blocks": [
+   [
+    "PITIRIASIS ALBA FACIAL",
+    "Tacrolimus 0,1 %",
+    "Crema glucídica",
+    "Se prefieren los inhibidores de la calcineurina a los corticoides para evitar atrofia. El pimecrolimus 1 % a veces no es eficaz y el tacrolimus en pomada tiene poca cosmeticidad.",
+    "Ref.: Abdel-Wahab HM, Ragaie MH. J Dermatolog Treat 2022;33(4):2285-9."
+   ]
+  ]
+ },
+ {
+  "sec": "R",
+  "page": "RETINOIDES TÓPICOS",
+  "blocks": [
+   [
+    "ESCALA DE POTENCIA",
+    "Tretinoína 0,05 % > Retinal 0,05 % / Tazaroteno 0,1 % > Retinol >0,4 % > otros retinoles"
+   ],
+   [
+    "RETINOL",
+    "Concentración >0,4 %.",
+    "Respuesta en la semana 2 si la dosis es >0,1 % (con dosis inferiores, a las 4 - 8 semanas).",
+    "Es fundamental la estabilidad de la fórmula.",
+    "Menos efectos adversos que la tretinoína."
+   ],
+   [
+    "RETINALDEHÍDO / RETINAL",
+    "Concentración 0,05 - 0,1 %; respuesta en la semana 2 - 4.",
+    "Efecto «senoterapéutico» en dermatoporosis.",
+    "Efecto antioxidante y antibacteriano frente a C. acnes y estafilococo."
+   ],
+   [
+    "RETINIL (ÉSTERES DE RETINOL)",
+    "Pocos estudios in vivo y poca evidencia de eficacia; buena tolerancia."
+   ]
+  ]
+ },
+ {
+  "sec": "S",
+  "page": "Sucralfato en enema 10%",
+  "blocks": [
+   [
+    "ENEMA DE SUCRALFATO AL 10 %, 20 ml",
+    "Sucralfato 2 g",
+    "Agua destilada c.s.p. 20 ml",
+    "Modus operandi: pesar el sucralfato y suspenderlo en el agua destilada.",
+    "Envasado: envase de enema. Etiquetado: agitar antes de usar.",
+    "Conservación: proteger de la luz. Caducidad: 7 días a temperatura ambiente; evitar la congelación."
+   ]
+  ]
+ },
+ {
+  "sec": "T",
+  "page": "TIOSULFATO SÓDICO",
+  "blocks": [
+   [
+    "TIOSULFATO SÓDICO INTRALESIONAL EN CALCINOSIS CUTIS",
+    "Tiosulfato sódico 250 mg/ml intralesional / perilesional",
+    "Aproximadamente 1 ml por cm² de área afecta.",
+    "Cada 1 - 4 semanas; acortar o alargar el intervalo según la mejoría clínica. Duración según respuesta.",
+    "Protocolo: asepsia con clorhexidina, anestesia local con lidocaína o bupivacaína e infiltración subcutánea con aguja de 25 - 30 G y jeringa de 1 ml.",
+    "Antioxidante y vasodilatador (alivio rápido del dolor) y quelante de las sales de calcio. Éxito publicado en extravasación de quimioterapia y calcinosis cutis.",
+    "Fuente: Dra. Maribel Iglesias, H. U. Sagrat Cor. Refs.: Strazzula L et al. JAMA Dermatol 2013;149(8):946-9; López-Sundh AE et al. Clin Rheumatol 2020."
+   ]
+  ]
+ }
+]

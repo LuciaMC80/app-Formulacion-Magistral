@@ -1,5 +1,5 @@
 // Guarda la app en caché para que funcione sin conexión una vez instalada.
-const CACHE = 'dietario-v2';
+const CACHE = 'dietario-v3';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png'];
 
 self.addEventListener('install', e => {

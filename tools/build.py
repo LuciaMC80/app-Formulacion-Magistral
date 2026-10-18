@@ -11,6 +11,8 @@ ROOT = os.path.dirname(HERE)
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--src', default=os.path.join(HERE, 'onenote-export.json'))
+ap.add_argument('--images', default=os.path.join(HERE, 'imagenes.json'),
+                help='fórmulas transcritas a mano de las imágenes del cuaderno')
 ap.add_argument('--template', default=os.path.join(HERE, 'template.html'))
 ap.add_argument('--out', default=os.path.join(ROOT, 'index.html'))
 ap.add_argument('--data-out', default=os.path.join(HERE, 'data.json'))
@@ -18,6 +20,10 @@ ap.add_argument('--artifact', metavar='OUT', help='escribe solo el fragmento par
 args = ap.parse_args()
 
 dump = json.load(open(args.src, encoding='utf-8'))
+image_blocks = {}
+if os.path.exists(args.images):
+    for e in json.load(open(args.images, encoding='utf-8')):
+        image_blocks.setdefault((e['sec'], e['page']), []).extend(e['blocks'])
 
 DATE_RE = re.compile(r'^(lunes|martes|miércoles|jueves|viernes|sábado|domingo),? \d{1,2} de \w+ de \d{4}', re.I)
 TIME_RE = re.compile(r'^\d{1,2}:\d{2}$')
@@ -66,12 +72,14 @@ def split_formulas(paras):
             out.append(pending_head)
     return out
 
+# páginas con el mismo nombre en una sección: se fusionan, no se sustituyen
 pages = {}
 for d in dump:
     key = (d['sec'], d['page'])
-    if key in pages and pages[key]['ok'] and not d['ok']:
-        continue
-    pages[key] = d
+    if key not in pages or not pages[key]['ok']:
+        pages[key] = dict(d, outlines=list(d['outlines']))
+    elif d['ok']:
+        pages[key]['outlines'] += d['outlines']
 
 letters = []
 order = []
@@ -103,6 +111,7 @@ for sec in order:
                     continue
             for chunk in split_formulas(paras):
                 blocks.append(chunk)
+        blocks += image_blocks.get((s_, name), [])
         if title.lower() == 'página sin título' and not blocks:
             continue
         if blocks and blocks[0][0].upper() == title.upper():
